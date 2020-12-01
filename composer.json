@@ -1,0 +1,24 @@
+{
+  "name": "spryker-feature/merchant-opening-hours",
+  "description": "Merchant Opening Hours [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.3",
+    "spryker-shop/merchant-opening-hours-widget": "^0.1.0",
+    "spryker/merchant-opening-hours": "^0.2.0",
+    "spryker/merchant-opening-hours-data-import": "^0.2.0",
+    "spryker/merchant-opening-hours-storage": "^0.2.0",
+    "spryker/weekday-schedule": "^0.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "202009.x-dev"
+    }
+  },
+  "suggest": {
+    "spryker-feature/marketplace-merchant": "Recommended feature dependency."
+  }
+}
