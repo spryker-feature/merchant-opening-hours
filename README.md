@@ -14,4 +14,4 @@ composer require spryker-feature/merchant-opening-hours
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantOpeningHoursRestApi ^1.0.0](https://github.com/spryker/merchant-opening-hours-rest-api) (Glue)
+- [MerchantOpeningHoursRestApi ^1.0.0](https://github.com/spryker/merchant-opening-hours-rest-api) (Legacy Glue)
