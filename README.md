@@ -2,6 +2,8 @@
 
 Merchant Opening Hours is a feature that allows a Merchant entity to have their working/opening hours saved in the system as well as it being retrievable for presentation for curious customers. A merchant can have a Weekday Schedule, meaning a daily schedule for every day of the week, as well as date-based exceptions where they setup different working/opening hours for specific dates like during the holiday season.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/marketplace/merchant-opening-hours-feature-overview.html)
+
 ## Installation
 
 ```
