@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.0",
+        "php": ">=8.1",
         "spryker-shop/merchant-opening-hours-widget": "^1.0.0",
         "spryker/merchant-opening-hours": "^1.0.0",
         "spryker/merchant-opening-hours-data-import": "^0.6.0",
