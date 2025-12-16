@@ -10,12 +10,12 @@
         "spryker-shop/merchant-opening-hours-widget": "^1.0.0",
         "spryker/merchant-opening-hours": "^1.0.0",
         "spryker/merchant-opening-hours-data-import": "^0.6.0",
-        "spryker/merchant-opening-hours-storage": "^1.1.0",
-        "spryker/weekday-schedule": "^1.0.0"
+        "spryker/merchant-opening-hours-storage": "^1.2.0",
+        "spryker/weekday-schedule": "^1.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202512.x-dev"
         }
     },
     "suggest": {
